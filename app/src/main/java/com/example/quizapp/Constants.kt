@@ -16,7 +16,7 @@ object Constants {
         )
         questionsList.add(que1)
         val que2 = Question(
-            2, "Which scientist discovered radioactivity and open new avenues for medical treatment , scientific research in nuclear science and technology?",
+            2, "Which scientist discovered radioactivity and open new avenues for medical treatment ,scientific research in nuclear science and technology?",
             R.drawable.marie_curie,
             "Marie Curie","Nicola Tesla",
             "Issac Newton","Charles Darwin",
@@ -24,7 +24,7 @@ object Constants {
         )
         questionsList.add(que2)
         val que3 = Question(
-            3, "Which scientist invented a device for communication device in 1876?",
+            3, "Which scientist invented a device for communication in 1876?",
             R.drawable.alexander_graham_bell,
             "Galileo Galilei","Charles Darwin",
             "Issac Newton","Alexander Graham Bell",
@@ -41,8 +41,8 @@ object Constants {
         )
         questionsList.add(que4)
         val que5 = Question(
-            5, "Which scientist invented  contributions to mathematics and physics revolutionized scientific thinking " +
-                    "and paved the way for many subsequent developments in science and technology.?",
+            5, "Which scientist contributions to mathematics and physics revolutionized scientific thinking " +
+                    "and paved the way for many subsequent developments in science and technology?",
             R.drawable.issac_newton,
             "Issac Newton","James Clerk Maxwell:",
             "Rosalind Franklin","Charles Darwin",
@@ -84,7 +84,7 @@ object Constants {
         )
         questionsList.add(que9)
         val que10 = Question(
-            10, "Which scientist discovers contributions to the study of DNA's structure ?",
+            10, "Which scientist discovers contributions to the study of DNA's structure?",
             R.drawable.rosalind_franklin,
             "Marie Curie","Thomas Edison",
             "James Clerk Maxwell","Rosalind Franklin",
